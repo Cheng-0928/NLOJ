@@ -135,7 +135,7 @@ rvm use 3.3.7
 
 # Clone git repos
 cd "$WORKDIR"
-git clone https://github.com/TIOJ-INFOR-Online-Judge/tioj.git
+git clone https://github.com/Cheng-0928/tioj.git
 git clone https://github.com/TIOJ-INFOR-Online-Judge/tioj-judge.git
 
 # Solve MariaDB incompatibility in Arch
